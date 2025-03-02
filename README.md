@@ -13,11 +13,14 @@ make
 
 ## Работа приложения
 
-Список записей:
-![alt text](images/list_example.png)
+*Список записей:*
 
-Окно добавления записи:
-![alt text](images/add_example.png)
+![Пример списка записей](images/list_example.png)
 
-График изменения численности:
-![alt text](images/chart_example.png)
+*Окно добавления записи:*
+
+![Окно добавления записи](images/add_example.png)
+
+*График изменения численности:*
+
+![Пример графика изменения численности населения в городе](images/chart_example.png)
