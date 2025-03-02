@@ -4,7 +4,7 @@
 
 ## Запуск в Ubuntu
 
-``` bash
+```bash
 sudo apt install g++ qt6-base-dev libqt6core5compat6-dev libqt6charts6-dev libgl1-mesa-dev
 qmake6
 make

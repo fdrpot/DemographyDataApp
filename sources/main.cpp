@@ -1,4 +1,4 @@
-#include "citiesviewwidget.h"
+#include "../headers/citiesviewwidget.h"
 
 #include <QApplication>
 

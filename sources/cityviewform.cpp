@@ -1,4 +1,4 @@
-#include "cityviewform.h"
+#include "../headers/cityviewform.h"
 
 bool comp(CensusData d1, CensusData d2) {
     return d1.getYear() < d2.getYear();

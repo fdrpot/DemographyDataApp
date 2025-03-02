@@ -1,5 +1,5 @@
-#include "citiesviewwidget.h"
-#include "citiestablewidget.h"
+#include "../headers/citiesviewwidget.h"
+#include "../headers/citiestablewidget.h"
 #include <cityviewform.h>
 
 

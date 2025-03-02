@@ -1,4 +1,4 @@
-#include "censusreader.h"
+#include "../headers/censusreader.h"
 
 CensusReader::CensusReader(QString fileName) {
     f = new QFile(fileName);

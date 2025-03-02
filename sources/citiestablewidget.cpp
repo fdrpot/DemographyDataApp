@@ -1,4 +1,4 @@
-#include "citiestablewidget.h"
+#include "../headers/citiestablewidget.h"
 #include "qheaderview.h"
 
 CensusData::CensusData(QString name, unsigned int popultaion, unsigned short year) {

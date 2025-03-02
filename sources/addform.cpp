@@ -1,4 +1,4 @@
-#include "addform.h"
+#include "../headers/addform.h"
 
 #define EDIT_WIDTH 200
 
