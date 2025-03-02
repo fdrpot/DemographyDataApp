@@ -54,3 +54,5 @@ qtcreator.*
 *.~*~
 .DS_Store
 Thumbs.db
+
+census_record.txt
