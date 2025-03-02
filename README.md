@@ -10,3 +10,14 @@ qmake6
 make
 ./demographyApp
 ```
+
+## Работа приложения
+
+Список записей:
+![alt text](images/list_example.png)
+
+Окно добавления записи:
+![alt text](images/add_example.png)
+
+График изменения численности:
+![alt text](images/chart_example.png)

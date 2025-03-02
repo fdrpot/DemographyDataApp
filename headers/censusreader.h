@@ -1,7 +1,7 @@
 #ifndef CENSUSREADER_H
 #define CENSUSREADER_H
 
-#include <citiestablewidget.h>
+#include "citiestablewidget.h"
 #include <QFile>
 #include <QMessageBox>
 

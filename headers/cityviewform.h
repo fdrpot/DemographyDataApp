@@ -2,7 +2,7 @@
 #define CITYVIEWFORM_H
 
 #include <QWidget>
-#include <citiestablewidget.h>
+#include "citiestablewidget.h"
 #include <QLabel>
 #include <QHBoxLayout>
 #include <QVBoxLayout>

@@ -1,6 +1,6 @@
 #include "../headers/citiesviewwidget.h"
 #include "../headers/citiestablewidget.h"
-#include <cityviewform.h>
+#include "../headers/cityviewform.h"
 
 
 #define RUS(str) codec->toUnicode(str)

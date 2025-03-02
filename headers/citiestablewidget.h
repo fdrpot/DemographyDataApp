@@ -3,7 +3,7 @@
 
 #include <QTableWidget>
 #include <QSignalMapper>
-#include <inttableitem.h>
+#include "inttableitem.h"
 
 class CensusReader;
 

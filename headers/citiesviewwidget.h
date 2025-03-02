@@ -11,7 +11,7 @@
 #include <QPushButton>
 #include <QCheckBox>
 #include <QLineEdit>
-#include <censusreader.h>
+#include "censusreader.h"
 #include "addform.h"
 
 class CitiesViewWidget : public QWidget
